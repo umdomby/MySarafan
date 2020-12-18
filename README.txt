@@ -30,7 +30,7 @@ fetch(
 // DELETE existing
 fetch('/message/4', { method: 'DELETE' }).then(result => console.log(result))
 
-//pstman
+//postman
 {
     "text": "Fourth message (21231)"
 }
