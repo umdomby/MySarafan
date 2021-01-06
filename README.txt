@@ -62,6 +62,12 @@ cd sweater
 npm outdated
 npm update
 
+
+https://losst.ru/ustanovka-node-js-ubuntu-18-04
+sudo apt install nodejs
+sudo apt install npm
+
+
 #npm run sweater-app
 
 ..set webpack
